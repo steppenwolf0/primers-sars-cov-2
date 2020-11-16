@@ -1,0 +1,124 @@
+33
+[1.        0.9989    0.99875   0.9985125 0.998725  0.9989125 0.9993375
+ 0.9989125 0.998675  0.9989625]
+[ 53. 208. 327. 327. 166. 261. 166. 208. 327. 208.]
+[19. 13. 11. 11. 14. 12. 14. 13. 11. 13.]
+1.0
+0
+19
+Loading dataset...
+583
+53
+583
+
+Classifier GradientBoostingClassifier(n_estimators=300)
+	training: 1.0000, test: 1.0000
+	training: 1.0000, test: 1.0000
+	training: 1.0000, test: 1.0000
+	training: 1.0000, test: 1.0000
+	training: 1.0000, test: 1.0000
+	training: 1.0000, test: 1.0000
+	training: 1.0000, test: 1.0000
+	training: 1.0000, test: 1.0000
+	training: 1.0000, test: 1.0000
+	training: 1.0000, test: 1.0000
+GradientBoostingClassifier(n_estimators=300) 	 1.0000 	 0.0000 
+
+
+Classifier RandomForestClassifier(n_estimators=300)
+	training: 1.0000, test: 1.0000
+	training: 1.0000, test: 1.0000
+	training: 1.0000, test: 1.0000
+	training: 1.0000, test: 1.0000
+	training: 1.0000, test: 1.0000
+	training: 1.0000, test: 0.9831
+	training: 1.0000, test: 1.0000
+	training: 1.0000, test: 1.0000
+	training: 1.0000, test: 1.0000
+	training: 1.0000, test: 1.0000
+RandomForestClassifier(n_estimators=300) 	 0.9983 	 0.0051 
+
+
+Classifier LogisticRegression
+	training: 1.0000, test: 1.0000
+	training: 1.0000, test: 1.0000
+	training: 1.0000, test: 1.0000
+	training: 1.0000, test: 1.0000
+	training: 1.0000, test: 1.0000
+	training: 1.0000, test: 1.0000
+	training: 1.0000, test: 1.0000
+	training: 1.0000, test: 1.0000
+	training: 1.0000, test: 1.0000
+	training: 1.0000, test: 1.0000
+LogisticRegression 	 1.0000 	 0.0000 
+
+
+Classifier PassiveAggressiveClassifier
+	training: 1.0000, test: 1.0000
+	training: 1.0000, test: 1.0000
+	training: 1.0000, test: 1.0000
+	training: 1.0000, test: 1.0000
+	training: 1.0000, test: 1.0000
+	training: 1.0000, test: 1.0000
+	training: 1.0000, test: 1.0000
+	training: 1.0000, test: 1.0000
+	training: 1.0000, test: 1.0000
+	training: 1.0000, test: 1.0000
+PassiveAggressiveClassifier 	 1.0000 	 0.0000 
+
+
+Classifier SGDClassifier
+	training: 1.0000, test: 1.0000
+	training: 1.0000, test: 1.0000
+	training: 1.0000, test: 1.0000
+	training: 1.0000, test: 1.0000
+	training: 1.0000, test: 1.0000
+	training: 1.0000, test: 1.0000
+	training: 1.0000, test: 1.0000
+	training: 1.0000, test: 1.0000
+	training: 1.0000, test: 1.0000
+	training: 1.0000, test: 1.0000
+SGDClassifier 	 1.0000 	 0.0000 
+
+
+Classifier SVC(linear)
+	training: 1.0000, test: 1.0000
+	training: 1.0000, test: 1.0000
+	training: 1.0000, test: 1.0000
+	training: 1.0000, test: 1.0000
+	training: 1.0000, test: 1.0000
+	training: 1.0000, test: 1.0000
+	training: 1.0000, test: 1.0000
+	training: 1.0000, test: 1.0000
+	training: 1.0000, test: 1.0000
+	training: 1.0000, test: 1.0000
+SVC(linear) 	 1.0000 	 0.0000 
+
+
+Classifier RidgeClassifier
+	training: 1.0000, test: 1.0000
+	training: 1.0000, test: 1.0000
+	training: 1.0000, test: 1.0000
+	training: 1.0000, test: 1.0000
+	training: 1.0000, test: 1.0000
+	training: 1.0000, test: 1.0000
+	training: 1.0000, test: 1.0000
+	training: 1.0000, test: 1.0000
+	training: 1.0000, test: 1.0000
+	training: 1.0000, test: 1.0000
+RidgeClassifier 	 1.0000 	 0.0000 
+
+
+Classifier BaggingClassifier(n_estimators=300)
+	training: 1.0000, test: 1.0000
+	training: 1.0000, test: 1.0000
+	training: 1.0000, test: 1.0000
+	training: 1.0000, test: 1.0000
+	training: 1.0000, test: 1.0000
+	training: 1.0000, test: 0.9831
+	training: 1.0000, test: 1.0000
+	training: 1.0000, test: 1.0000
+	training: 1.0000, test: 1.0000
+	training: 1.0000, test: 1.0000
+BaggingClassifier(n_estimators=300) 	 0.9983 	 0.0051 
+

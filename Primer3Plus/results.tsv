@@ -1,0 +1,12 @@
+TAGCACTCTCCAAGGGTGTTC	GCAAAGCCAAAGCCTCATTA
+CATCTACTGATTGGACTAGCT	Left primer is unacceptable: Tm too low/High end self complementarity
+AATGAATTATCAAGTTAATGG	Left primer is unacceptable: Tm too low
+CACGTAGGAATGTGGCAACTT	Left primer is unacceptable: High end self complementarity
+TGAGCAGTGCTGACTCAACTC	Left primer is unacceptable: High end self complementarity
+CAACTTTTAACGTACCAATGG	Left primer is unacceptable: Tm too low/High end self complementarity
+CTAAAGCATACAATGTAACAC	Left primer is unacceptable: Tm too low
+GATGGTCAAGTAGACTTATTT	Left primer is unacceptable: Tm too low
+TGCCACTTGGCTATGTAACAC	GGAACCAGCAAGTGAGATGG
+TATTAGTGATATGTACGACCC	Left primer is unacceptable: Tm too low/High 3' stability
+AATAGAAGAATTATTCTATTC	Left primer is unacceptable: Unacceptable GC content/Tm too low/High self complementarity/High end self complementarity
+CGATAACAACTTCTGTGGCCC	Left primer is unacceptable: High 3' stability

@@ -1,0 +1,2 @@
+facebook.com:HSTS	0	18363	1602167842941,1,1,2
+www.google.com:HSTS	0	18363	1618151359334,1,0,2
